@@ -3,7 +3,8 @@
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 def display_board(board)
-  puts board[index]
+  puts " "|" "|" "
+  puts -----------
 end 
 
 puts display_board(board)
